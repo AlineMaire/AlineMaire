@@ -5,10 +5,10 @@
 🌸 Estágiaria na FFLCH-STI <br> 
 🌸 Laravel e Drupal
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/AlineMaire">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlineMaire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=f6d7e0&icon_color=f9f6f1&title_color=f887a8&text_color=d590a3"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMaire&langs_count=7&theme=dracula&bg_color=f6d7e0&icon_color=f9f6f1&title_color=f887a8&text_color=d590a3"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlineMaire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=f6d7e0&icon_color=f9f6f1&title_color=f887a8&text_color=d590a3"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMaire&langs_count=7&theme=dracula&bg_color=f6d7e0&icon_color=f9f6f1&title_color=f887a8&text_color=d590a3"/>
 </div>
   
  ## 
