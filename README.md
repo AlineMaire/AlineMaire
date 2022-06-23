@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/AlineMaire">
   <img height="180em" width="60%"src="https://github-readme-stats.vercel.app/api?username=AlineMaire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=f6d7e0&icon_color=f9f6f1&title_color=f887a8&text_color=d590a3"/>
-    <img align="right" alt="Aline-pic" height="180" style="border-radius:10px;" src="https://i.pinimg.com/originals/a0/08/b3/a008b3ee16045da010a6204b647b85ae.jpg">
+    <img align="right" alt="Aline-pic" height="180" style="border-radius:10px;" src="https://i.pinimg.com/originals/a0/08/b3/a008b3ee16045da010a6204b647b85ae.jpg](https://i.pinimg.com/originals/60/5f/ba/605fbacfa86144158b391642b813c754.jpg">
 </div>
   
  ## 
